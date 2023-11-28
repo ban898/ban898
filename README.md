@@ -16,6 +16,14 @@ In my professional growth, I have acquired proficiency with an extensive array o
 - Visualization & Reporting: Utilizing Grafana for insightful data visualization and performance reporting.
 - Application Deployment: Learning Helm charts for efficient Kubernetes application management.
 - Database Management: Knowledgeable in database technologies like MySQL for data persistence and management.
+
+### 🏆 Certifications
+
+- **AWS Certified Cloud Practitioner**:  
+  ![AWS Certified Cloud Practitioner Badge](https://github.com/ban898/ban898/blob/main/aws-certified-cloud-practitioner.png?raw=true)
+
+
+
 ### 🛠️ Technologies & Tools
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
