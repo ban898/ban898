@@ -20,7 +20,8 @@ In my professional growth, I have acquired proficiency with an extensive array o
 ### 🏆 Certifications
 
 - **AWS Certified Cloud Practitioner**:  
-  ![AWS Certified Cloud Practitioner Badge](https://github.com/ban898/ban898/blob/main/aws-certified-cloud-practitioner.png?raw=true)
+  [![AWS Certified Cloud Practitioner Badge](https://github.com/ban898/ban898/blob/main/aws-certified-cloud-practitioner.png?raw=true)](https://www.credly.com/badges/594ae9a5-f6c5-4998-8a43-01f349d8ab5c/public_url)
+
 
 
 
